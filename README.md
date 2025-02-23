@@ -8,7 +8,7 @@
 </div>
 
 
-<h3>**Работы ЮВ**</h3>
+**<h2>Работы ЮВ</h2>**
 
 **Презентация**
 https://docs.google.com/presentation/d/1TbvHWNQWspcZoKrF0qciIejE1QagnpxdwOjWEFontkc/edit?usp=drive_link
@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1X-9kClmaagzspwxR1NFwHbAi4TiUrPGIFCTPYJqZmLw/
 
 
 
-**Работы ЛН**
+**<h2>Работы ЛН</h2>**
 
 
 
