@@ -8,7 +8,7 @@
 </div>
 
 
-**Работы ЮВ**
+##**Работы ЮВ**##
 
 **Презентация**
 https://docs.google.com/presentation/d/1TbvHWNQWspcZoKrF0qciIejE1QagnpxdwOjWEFontkc/edit?usp=drive_link
@@ -37,3 +37,14 @@ https://docs.google.com/document/d/1X-9kClmaagzspwxR1NFwHbAi4TiUrPGIFCTPYJqZmLw/
 **Твайн**
 
 https://wi11iamafton.github.io/REP_LN/
+
+**Методичка по GIMP**
+
+https://docs.google.com/document/d/1FNvfpZbtcfZfSk07NLRj4-00skupQChpSzigL8IDwIQ/edit?usp=drive_link
+
+**Конспекты ОС и БД**
+
+https://docs.google.com/document/d/11JqTfeY8a91FiLHOejIydkpeCEGw2VxQkiDqygzql7s/edit?usp=drive_link
+
+https://docs.google.com/document/d/1OcJYTYQMrw4WfBn79fUst3lz1iHN4O8VdYl05tbiGsw/edit?usp=drive_link
+
