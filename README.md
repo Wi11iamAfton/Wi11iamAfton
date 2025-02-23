@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1aDU0ndAULmlT9Cy8GoBGkTnL8K5js7es/edit?us
 **Конспекты**
 https://docs.google.com/document/d/1X-9kClmaagzspwxR1NFwHbAi4TiUrPGIFCTPYJqZmLw/edit?usp=drive_link
 
-
+________________________________________________________________________________________________________
 
 **<h2>Работы ЛН</h2>**
 
